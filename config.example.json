@@ -1,0 +1,16 @@
+{
+  "hard_phrases": [
+    "clear skies ahead"
+  ],
+  "soft_phrases": [
+    "next-level"
+  ],
+  "sameness_threshold": 3,
+  "opener_words": 8,
+  "closing_words": 10,
+  "profile_max_words": {
+    "email_reply": 140,
+    "proposal": null,
+    "website_copy": null
+  }
+}
